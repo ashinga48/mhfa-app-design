@@ -109,9 +109,32 @@ var story = {
    "links": []
   },
   {
-   "id": "19B6E60B-0877-4C39-BFF6-06C8EF27562C",
+   "id": "10078FCE-79A4-41DF-93A1-78E2E40E1DE0",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
    "index": 4,
+   "image": "11_events_list_copy.png",
+   "image2x": "11_events_list_copy@2x.png",
+   "width": 414,
+   "height": 896,
+   "x": 631,
+   "y": 1971,
+   "title": "11 Events list Copy",
+   "transAnimType": 0,
+   "layout": {
+    "offset": 0,
+    "totalWidth": 960,
+    "numberOfColumns": 12,
+    "columnWidth": 60,
+    "gutterWidth": 20
+   },
+   "type": "regular",
+   "fixedPanels": [],
+   "links": []
+  },
+  {
+   "id": "19B6E60B-0877-4C39-BFF6-06C8EF27562C",
+   "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
+   "index": 5,
    "image": "12_event_filters.png",
    "image2x": "12_event_filters@2x.png",
    "width": 414,
@@ -134,7 +157,7 @@ var story = {
   {
    "id": "8B2BEBC8-D6E8-4777-964E-19CAB64E2908",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 5,
+   "index": 6,
    "image": "3_donations.png",
    "image2x": "3_donations@2x.png",
    "width": 414,
@@ -155,9 +178,32 @@ var story = {
    "links": []
   },
   {
+   "id": "6E22DC2D-1667-4A04-B5F1-D1606E654C19",
+   "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
+   "index": 7,
+   "image": "11_events_list_copy_2.png",
+   "image2x": "11_events_list_copy_2@2x.png",
+   "width": 414,
+   "height": 896,
+   "x": 1145,
+   "y": 1971,
+   "title": "11 Events list Copy 2",
+   "transAnimType": 0,
+   "layout": {
+    "offset": 0,
+    "totalWidth": 960,
+    "numberOfColumns": 12,
+    "columnWidth": 60,
+    "gutterWidth": 20
+   },
+   "type": "regular",
+   "fixedPanels": [],
+   "links": []
+  },
+  {
    "id": "3AB88A9A-4C0E-4816-BBC9-D57DB81AC0D5",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 6,
+   "index": 8,
    "image": "13_events_on_map.png",
    "image2x": "13_events_on_map@2x.png",
    "width": 414,
@@ -180,7 +226,7 @@ var story = {
   {
    "id": "1E638184-5254-49D7-B2FA-F892AD25F2A8",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 7,
+   "index": 9,
    "image": "4_sponsors.png",
    "image2x": "4_sponsors@2x.png",
    "width": 414,
@@ -203,7 +249,7 @@ var story = {
   {
    "id": "9C0ED8B5-E3C1-446C-A36E-F9F57CDE3C78",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 8,
+   "index": 10,
    "image": "5_stream.png",
    "image2x": "5_stream@2x.png",
    "width": 414,
@@ -226,7 +272,7 @@ var story = {
   {
    "id": "F9841B55-FE4E-4367-BA75-0D64EAB45143",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 9,
+   "index": 11,
    "image": "14_group_desc.png",
    "image2x": "14_group_desc@2x.png",
    "width": 414,
@@ -249,7 +295,7 @@ var story = {
   {
    "id": "89AD50CE-B078-48C0-8BB8-C520984CDC77",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 10,
+   "index": 12,
    "image": "14b_group_join.png",
    "image2x": "14b_group_join@2x.png",
    "width": 414,
@@ -272,7 +318,7 @@ var story = {
   {
    "id": "821A7149-A586-443C-83EF-640E5B49715A",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 11,
+   "index": 13,
    "image": "6_no_internet.png",
    "image2x": "6_no_internet@2x.png",
    "width": 414,
@@ -295,7 +341,7 @@ var story = {
   {
    "id": "A3D049CB-9D79-48F7-BC1B-50457F239FB6",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 12,
+   "index": 14,
    "image": "14c_group_upcoming.png",
    "image2x": "14c_group_upcoming@2x.png",
    "width": 414,
@@ -318,7 +364,7 @@ var story = {
   {
    "id": "B868C348-23D7-44BB-9E98-9C37F7114B99",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 13,
+   "index": 15,
    "image": "15_group_conversation.png",
    "image2x": "15_group_conversation@2x.png",
    "width": 414,
@@ -341,7 +387,7 @@ var story = {
   {
    "id": "5B68DC60-9E7E-4AC6-AC12-87E04D083637",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 14,
+   "index": 16,
    "image": "7_enter_postcode.png",
    "image2x": "7_enter_postcode@2x.png",
    "width": 414,
@@ -364,7 +410,7 @@ var story = {
   {
    "id": "FF91788B-5F39-44F5-B980-3C0013934516",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 15,
+   "index": 17,
    "image": "iphone_12_pro_copy_23.png",
    "image2x": "iphone_12_pro_copy_23@2x.png",
    "width": 414,
@@ -387,7 +433,7 @@ var story = {
   {
    "id": "06ECEEB0-3FEE-4D13-AF80-9746BB1982CF",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 16,
+   "index": 18,
    "image": "16_profile.png",
    "image2x": "16_profile@2x.png",
    "width": 414,
@@ -410,7 +456,7 @@ var story = {
   {
    "id": "2470AB50-331E-4F9D-A695-54E6BDF09E62",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 17,
+   "index": 19,
    "image": "8_states.png",
    "image2x": "8_states@2x.png",
    "width": 414,
@@ -433,7 +479,7 @@ var story = {
   {
    "id": "2065CED6-A2FB-4F94-A9E4-AF3C4132B998",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 18,
+   "index": 20,
    "image": "17_login.png",
    "image2x": "17_login@2x.png",
    "width": 414,
@@ -456,7 +502,7 @@ var story = {
   {
    "id": "7308A8BF-5DA0-484F-AFF1-0407EDB5F2F8",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 19,
+   "index": 21,
    "image": "9_username.png",
    "image2x": "9_username@2x.png",
    "width": 414,
@@ -479,7 +525,7 @@ var story = {
   {
    "id": "41977D7D-8CEE-4DDF-A107-520BAAB8F903",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 20,
+   "index": 22,
    "image": "18_register.png",
    "image2x": "18_register@2x.png",
    "width": 414,
@@ -502,7 +548,7 @@ var story = {
   {
    "id": "681CF67D-CF83-4A56-9500-35AFF8B81868",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 21,
+   "index": 23,
    "image": "19_verification.png",
    "image2x": "19_verification@2x.png",
    "width": 414,
@@ -525,7 +571,7 @@ var story = {
   {
    "id": "51449BA0-1CB6-4800-88B2-B54CC070A8D2",
    "groupID": "709B4D85-C776-4F3F-8661-EE255BA6E676",
-   "index": 22,
+   "index": 24,
    "image": "20_social_login.png",
    "image2x": "20_social_login@2x.png",
    "width": 414,
@@ -553,5 +599,5 @@ var story = {
   }
  ],
  "startPageIndex": 0,
- "totalImages": 23
+ "totalImages": 25
 }
