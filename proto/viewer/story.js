@@ -25,7 +25,7 @@ var story = {
    "width": 414,
    "height": 896,
    "x": -3799,
-   "y": -1022.9999999999999,
+   "y": -1023,
    "title": "iPhone 12 Pro Copy 15",
    "transAnimType": 0,
    "layout": {
@@ -118,7 +118,7 @@ var story = {
    "width": 414,
    "height": 896,
    "x": -3232,
-   "y": -1022.9999999999999,
+   "y": -1023,
    "title": "iPhone 12 Pro Copy 16",
    "transAnimType": 0,
    "layout": {
@@ -360,7 +360,7 @@ var story = {
       "height": 24
      },
      "isParentFixed": false,
-     "page": 11,
+     "page": 12,
      "index": 0
     },
     {
@@ -404,7 +404,7 @@ var story = {
       "height": 137
      },
      "isParentFixed": false,
-     "page": 12,
+     "page": 13,
      "index": 4
     },
     {
@@ -428,7 +428,7 @@ var story = {
    "image2x": "iphone_12_pro_copy_6@2x.png",
    "width": 414,
    "height": 896,
-   "x": -226.00000000000003,
+   "x": -226,
    "y": 1302,
    "title": "iPhone 12 Pro Copy 6",
    "transAnimType": 0,
@@ -444,59 +444,105 @@ var story = {
    "links": [
     {
      "rect": {
-      "x": 16,
-      "y": 147,
-      "width": 380,
-      "height": 114
-     },
-     "isParentFixed": false,
-     "page": 15,
-     "index": 0
-    },
-    {
-     "rect": {
-      "x": 253,
-      "y": 78,
+      "x": 252,
+      "y": 738,
       "width": 135,
       "height": 44
      },
      "isParentFixed": false,
-     "page": 13,
-     "index": 1
+     "page": 14,
+     "index": 0
     },
     {
      "rect": {
-      "x": 16.5,
-      "y": 78,
+      "x": 24.5,
+      "y": 735,
       "width": 204,
       "height": 44
      },
      "isParentFixed": false,
-     "page": 14,
-     "index": 2
+     "page": 15,
+     "index": 1
     },
     {
      "rect": {
-      "x": 43,
-      "y": 856,
-      "width": 51,
-      "height": 17
+      "x": 163,
+      "y": 103,
+      "width": 102,
+      "height": 13
      },
      "isParentFixed": false,
-     "page": 9,
-     "index": 3
+     "page": 11,
+     "index": 2
+    }
+   ]
+  },
+  {
+   "id": "9283B0C1-9098-404C-901C-11703FE55B44",
+   "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
+   "index": 11,
+   "image": "iphone_12_pro_copy_10.png",
+   "image2x": "iphone_12_pro_copy_10@2x.png",
+   "width": 414,
+   "height": 896,
+   "x": -177,
+   "y": 2389,
+   "title": "iPhone 12 Pro Copy 10",
+   "transAnimType": 0,
+   "layout": {
+    "offset": 0,
+    "totalWidth": 960,
+    "numberOfColumns": 12,
+    "columnWidth": 60,
+    "gutterWidth": 20
+   },
+   "type": "regular",
+   "fixedPanels": [],
+   "links": [
+    {
+     "rect": {
+      "x": 252,
+      "y": 738,
+      "width": 135,
+      "height": 44
+     },
+     "isParentFixed": false,
+     "page": 14,
+     "index": 0
+    },
+    {
+     "rect": {
+      "x": 24.5,
+      "y": 735,
+      "width": 204,
+      "height": 44
+     },
+     "isParentFixed": false,
+     "page": 15,
+     "index": 1
+    },
+    {
+     "rect": {
+      "x": 35,
+      "y": 103,
+      "width": 71,
+      "height": 13
+     },
+     "isParentFixed": false,
+     "page": 10,
+     "index": 2
     }
    ]
   },
   {
    "id": "BA8F82FE-EA82-4379-9EF8-E0C4623C9D2C",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 11,
+   "index": 12,
    "image": "iphone_12_pro_copy_5.png",
    "image2x": "iphone_12_pro_copy_5@2x.png",
    "width": 414,
    "height": 896,
-   "x": -19.000000000000114,
+   "x": -19.00000000000011,
    "y": -1408,
    "title": "iPhone 12 Pro Copy 5",
    "transAnimType": 0,
@@ -529,7 +575,7 @@ var story = {
       "height": 79
      },
      "isParentFixed": false,
-     "page": 12,
+     "page": 13,
      "index": 1
     }
    ]
@@ -537,7 +583,7 @@ var story = {
   {
    "id": "27FD8385-70D6-40BB-8AB2-1612F8AC9403",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 12,
+   "index": 13,
    "image": "iphone_12_pro_copy_9.png",
    "image2x": "iphone_12_pro_copy_9@2x.png",
    "width": 414,
@@ -564,7 +610,7 @@ var story = {
       "height": 896
      },
      "isParentFixed": false,
-     "page": 11,
+     "page": 12,
      "index": 0
     }
    ]
@@ -572,7 +618,7 @@ var story = {
   {
    "id": "7790EA99-351A-4CFB-BD0D-1A6E22EA8BB2",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 13,
+   "index": 14,
    "image": "iphone_12_pro_copy_8.png",
    "image2x": "iphone_12_pro_copy_8@2x.png",
    "width": 414,
@@ -607,13 +653,13 @@ var story = {
   {
    "id": "B7B7E7A0-54FE-455F-BC27-202B5E71465F",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 14,
+   "index": 15,
    "image": "iphone_12_pro_copy_7.png",
    "image2x": "iphone_12_pro_copy_7@2x.png",
    "width": 414,
    "height": 896,
    "x": 1017,
-   "y": 1900,
+   "y": 1941,
    "title": "iPhone 12 Pro Copy 7",
    "transAnimType": 0,
    "layout": {
@@ -642,7 +688,7 @@ var story = {
   {
    "id": "D789A04F-D0E1-493D-9605-3331F991A0C6",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 15,
+   "index": 16,
    "image": "iphone_12_pro_copy_21.png",
    "image2x": "iphone_12_pro_copy_21@2x.png",
    "width": 414,
@@ -669,7 +715,7 @@ var story = {
       "height": 52
      },
      "isParentFixed": false,
-     "page": 17,
+     "page": 18,
      "index": 0
     },
     {
@@ -680,7 +726,7 @@ var story = {
       "height": 13
      },
      "isParentFixed": false,
-     "page": 16,
+     "page": 17,
      "index": 1
     },
     {
@@ -699,7 +745,7 @@ var story = {
   {
    "id": "C8B6A5EF-EBD0-4F69-9ACC-A026C973C150",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 16,
+   "index": 17,
    "image": "iphone_12_pro_copy_22.png",
    "image2x": "iphone_12_pro_copy_22@2x.png",
    "width": 414,
@@ -726,7 +772,7 @@ var story = {
       "height": 13
      },
      "isParentFixed": false,
-     "page": 15,
+     "page": 16,
      "index": 0
     }
    ]
@@ -734,7 +780,7 @@ var story = {
   {
    "id": "1F82E2B4-ECA3-4690-A05D-161E03EB54BA",
    "groupID": "B0DF64F9-B847-4BC3-B7DB-6ED879B71F83",
-   "index": 17,
+   "index": 18,
    "image": "iphone_12_pro_copy_23.png",
    "image2x": "iphone_12_pro_copy_23@2x.png",
    "width": 414,
@@ -761,7 +807,7 @@ var story = {
       "height": 48
      },
      "isParentFixed": false,
-     "page": 15,
+     "page": 16,
      "index": 0
     }
    ]
@@ -774,5 +820,5 @@ var story = {
   }
  ],
  "startPageIndex": 0,
- "totalImages": 18
+ "totalImages": 19
 }
